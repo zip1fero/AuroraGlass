@@ -58,6 +58,10 @@ https://raw.githubusercontent.com/zip1fero/AuroraGlass/main/AuroraGlass.theme.cs
 
 [NeonGlass](https://github.com/zip1fero/NeonGlass) · [ObsidianGlass](https://github.com/zip1fero/ObsidianGlass)
 
+## Support
+
+Something broken after a Discord update? Open an [issue](https://github.com/zip1fero/AuroraGlass/issues).
+
 ## Author
 
 Made by **sakis** ([zip1fero](https://github.com/zip1fero)).
